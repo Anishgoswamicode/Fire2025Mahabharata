@@ -38,5 +38,5 @@ Chapter
 Sentence index
 Layer index
 
-👉 Input dimension: 772
-👉 Output: Next-layer embedding (768-dim)
+👉 Input dimension: 772 (768 + 4 metadata)
+👉 Output dimension: 768
